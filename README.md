@@ -1,10 +1,10 @@
 # Strapi application
 
-(Strapi)[https://github.com/strapi/strap] is an open source Node.js Headless CMS to easily build customisable APIs. It lets you manage your content and distribute it anywhere. It allows you to securely and privately serve your database of choice from your hosting and server of choice.
+[Strapi](https://github.com/strapi/strapi) is an open source Node.js Headless CMS to easily build customisable APIs. It lets you manage your content and distribute it anywhere. It allows you to securely and privately serve your database of choice from your hosting and server of choice.
 
 ## Getting started
 
-- Complete the (Strapi Quickstart tutorial){https://strapi.io/documentation/3.0.0-beta.x/getting-started/quick-start.html#_1-install-strapi-and-create-a-new-project}to get a simple REST API going within 5 minutes.
+- Complete the [Strapi Quickstart tutorial](https://strapi.io/documentation/3.0.0-beta.x/getting-started/quick-start.html#_1-install-strapi-and-create-a-new-project) to get a simple REST API going within 5 minutes.
 
 ## Requirements
 
@@ -49,4 +49,4 @@ _Front-end Agnostic_: Use any front-end framework (React, Vue, Angular, etc.), m
 _Powerful CLI_: Scaffold projects and APIs on the fly.
 _SQL & NoSQL databases_: Works with MongoDB, PostgreSQL, MySQL, MariaDB, and SQLite.
 
-(See more on Strapi's website)[https://strapi.io/overview].
+[See more on Strapi's website](https://strapi.io/overview).
