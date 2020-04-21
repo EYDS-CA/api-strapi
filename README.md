@@ -2,9 +2,27 @@
 
 [Strapi](https://github.com/strapi/strapi) is an open source Node.js Headless CMS to easily build customisable APIs. It lets you manage your content and distribute it anywhere. It allows you to securely and privately serve your database of choice from your hosting and server of choice.
 
+## Research
+
+### Pros
+
+- Super easy to install and run via quickstart (uses mongo by default)
+- Multiple database types
+- REST and GraphQL options
+- Easy to use GUI to create API schema
+- Lots of field types to choose from
+- Saves schema to .json
+
+### Cons
+
+- Poor date picker function doesn't select years, changes date formats, and drops a day everytime the item is updated.
+- Not opinionated enough to keep you from making mistakes
+- Not super easy to debug, but it is can be done. :)
+
 ## Getting started
 
 - Complete the [Strapi Quickstart tutorial](https://strapi.io/documentation/3.0.0-beta.x/getting-started/quick-start.html#_1-install-strapi-and-create-a-new-project) to get a simple REST API going within 5 minutes.
+- Creates simple API route: http://localhost:1337/restaurants
 
 ## Requirements
 
